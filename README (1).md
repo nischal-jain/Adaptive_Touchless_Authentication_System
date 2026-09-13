@@ -83,23 +83,21 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: Adaptive Touchless Authentication System </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  Hybrid touchless authentication system using OpenCV, MediaPipe and ESP32. Detects hand gestures and behavioral features such as sequence, speed, duration and timing to authenticate users. After successful authentication, ESP32 acts as a Bluetooth HID device for wireless PowerPoint control.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/NISCHAL-JAIN-H-S-g17-es-and-iot/tree/main/Final%20capstone%20project" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
+<h3 id="project2">Project 2: Smart_agriculture_monitoring_system_using_IoT </h3>
 <p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
+Designed an embedded sensor-based monitoring system to track agricultural field parameters and support data-driven irrigation decisions.Integrated microcontroller-based data acquisition with sensor interfacing for real-time field condition monitoring.Pushed sensor data to the Ubidots cloud platform for remote real-time dashboards and visualization, enabling farmers to monitor field conditions from anywhere. 
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/sure-trust/NISCHAL-JAIN-H-S-g17-es-and-iot/tree/main/Mini%20projects/Smart_agriculture_monitoring_system_using_IoT" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
