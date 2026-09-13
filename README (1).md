@@ -63,18 +63,19 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During my Embedded Systems and IoT internship at SureTrust, I gained strong foundational as well as practical knowledge in embedded system design and development. The learning journey started from the basics of Arduino Uno architecture and embedded C programming using the Arduino IDE, which helped me understand how microcontrollers interact with hardware at a fundamental level.
+
+As the internship progressed, I transitioned from high-level abstraction to bare-metal programming, where I learned how embedded systems work without relying on libraries. I was introduced to Real-Time Operating Systems (RTOS) concepts and implemented multitasking, scheduling, and inter-task communication using FreeRTOS, which enhanced my understanding of real-time system behavior.
+
+I also worked with ESP32 using ESP-IDF, gaining hands-on experience in professional embedded development workflows, memory management, and hardware abstraction layers. Additionally, I developed a solid understanding of core communication protocols such as SPI, UART, and I²C, and successfully integrated various sensors and peripherals using these protocols.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!--  Adaptive Touchless Authentication System → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;Adaptive Touchless Authentication System &gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Smart_agriculture_monitoring_system_using_IoT → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;Smart_agriculture_monitoring_system_using_IoT &gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
@@ -105,9 +106,11 @@ Designed an embedded sensor-based monitoring system to track agricultural field 
 
 ## **References**
 
-- [Wikipedia](https://wikipedia.com)
-<!--you can add refrences over here in same syntax as above -->
----
+- G. Bradski, “The OpenCV Library,” Dr. Dobb's Journal of Software Tools, vol. 25, no. 11, pp. 120–126, 2000
+- A. K. Jain, A. Ross, and S. Prabhakar, “An Introduction to Biometric Recognition,” IEEE Transactions on Circuits and Systems for Video Technology, vol. 14, no. 1, pp. 4–20, Jan. 200
+- M. Gil-Martín, M. Marini, I. Martín-Fernández al, “Hand Gesture Recognition Using MediaPipe Landmarks and Deep Learning Networks” ,pp. 24–30, 2025.
+- A Kusumaningrum, “Hand Gesture-Based Human-Computer Interaction using MediaPipe and OpenCV” AVITEC 7(2):223 July 2025
+- Espressif Systems, ESP32 Technical Reference Manual, Version 4.9, Espressif Systems, Shanghai, China, 2023. 
 
 
 ## **Learnings from LST and SST**
