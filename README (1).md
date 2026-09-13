@@ -72,11 +72,9 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!--  Adaptive Touchless Authentication System → --&gt;</p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
-
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Smart_agriculture_monitoring_system_using_IoT → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
@@ -101,14 +99,6 @@ Designed an embedded sensor-based monitoring system to track agricultural field 
 </p>
 
 <!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -123,9 +113,7 @@ Designed an embedded sensor-based monitoring system to track agricultural field 
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+During the 3-week Soft Skill Training program and Sunday LST sessions, I developed essential professional and interpersonal skills required in today's workplace. I learned effective communication, workplace etiquette, resume preparation, interview techniques, group discussion strategies, and career growth planning. The sessions also enhanced my understanding of emotional intelligence, active listening, creative problem-solving, critical thinking, negotiation, and workplace dynamics. Additionally, I gained practical knowledge of productivity tools, prompt engineering fundamentals, and integrating AI into daily workflows. Overall, the training improved my confidence, teamwork, professionalism, and readiness for internships and future career opportunities.
 
 ## **Community Services**
 
@@ -135,13 +123,12 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Helping Elder Citizens** – Assisted eight elderly individuals with simple daily tasks and provided support where needed. 
 
 <!-- you can write impacts according to your experience in your words-->
 
@@ -182,6 +169,7 @@ The internship certificate serves as an official acknowledgment of the successfu
 ## **Acknowledgments**
 
 <!-- you can add Acknowledgments over here in same syntax as below . eg trainer name , company name , role etc -->
+- [Mehak Majeed](https://www.linkedin.com/in/mehak-majeed) , ATFAAL Innovations Pvt. Ltd and Embedded System and IoT Trainer - SURE ProEd
 
 - [Prof. Radhakumari Challa](https://www.linkedin.com/in/prof-radhakumari-challa-a3850219b) , Executive Director and Founder - [SURE Trust](https://www.suretrustforruralyouth.com/)
 
