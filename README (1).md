@@ -84,13 +84,13 @@ I also worked with ESP32 using ESP-IDF, gaining hands-on experience in professio
 <!-- Project 1 -->
 <h3 id="project1">Project 1: Adaptive Touchless Authentication System </h3>
 <p>
-  Hybrid touchless authentication system using OpenCV, MediaPipe and ESP32. Detects hand gestures and behavioral features such as sequence, speed, duration and timing to authenticate users. After successful authentication, ESP32 acts as a Bluetooth HID device for wireless PowerPoint control.
+  The Adaptive Touchless Authentication System is a contactless authentication system that uses hand gestures and behavioral biometrics to verify users. A standard webcam captures the user's hand movements, while OpenCV and MediaPipe are used for real-time hand detection and landmark tracking. The system extracts behavioral features such as gesture sequence, movement speed, execution duration, timing, and motion consistency. These features are compared with registered user templates using similarity-based matching to identify and authenticate the user. The system supports multiple users and handles incorrect gesture sequences and repeated authentication attempts. After successful authentication, the system allows the user to perform gesture-based presentation control.
 </p>
 <p>
   <a href="https://github.com/sure-trust/NISCHAL-JAIN-H-S-g17-es-and-iot/tree/main/Final%20capstone%20project" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-The Adaptive Touchless Authentication System is a contactless authentication system that uses hand gestures and behavioral biometrics to verify users. A standard webcam captures the user's hand movements, while OpenCV and MediaPipe are used for real-time hand detection and landmark tracking. The system extracts behavioral features such as gesture sequence, movement speed, execution duration, timing, and motion consistency. These features are compared with registered user templates using similarity-based matching to identify and authenticate the user. The system supports multiple users and handles incorrect gesture sequences and repeated authentication attempts. After successful authentication, the system allows the user to perform gesture-based presentation control.
+
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
