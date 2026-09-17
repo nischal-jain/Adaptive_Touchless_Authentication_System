@@ -77,7 +77,7 @@ I also worked with ESP32 using ESP-IDF, gaining hands-on experience in professio
 
 
 
-<p><em>(You can add more projects as needed)</em></p>
+<p><em></em></p>
 
 </div>
 
